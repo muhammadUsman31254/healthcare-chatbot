@@ -12,7 +12,7 @@ import speech_recognition as sr
 from gtts import gTTS
 import os
 
-groq_api_key = "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"
+groq_api_key = "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"
 
 # Define a prompt template to improve interaction
 def format_prompt(user_query):
